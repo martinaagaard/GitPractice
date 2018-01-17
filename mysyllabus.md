@@ -12,7 +12,7 @@
 
 
 
-##Assignments##
+## Assignments
 
 **Midterm Paper**
 
